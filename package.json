@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://va7ul.github.io/hells-kitchen",
+  "homepage": "https://VorontsovaYulia.github.io/team_project_Tasty_treats",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /hells-kitchen/"
+    "build": "parcel build src/*.html --public-url /team_project_Tasty_treats/"
   },
   "repository": {
     "type": "git",
